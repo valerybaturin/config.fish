@@ -1,10 +1,8 @@
 starship init fish | source
 
-# for Go source
-# set -x GOROOT /usr/local/go
+set fish_greting
 
-# for Ubuntu Go snap
-set -x GOROOT /snap/go/current
+set -x GOROOT /usr/lin/go
 set -x GOPATH $HOME/go
 set -x GOBIN $HOME/go/bin
 
