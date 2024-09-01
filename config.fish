@@ -2,7 +2,7 @@ starship init fish | source
 
 set fish_greeting
 
-set -x GOROOT /usr/lin/go
+set -x GOROOT /usr/lib/go
 set -x GOPATH $HOME/go
 set -x GOBIN $HOME/go/bin
 
